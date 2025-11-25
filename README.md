@@ -19,5 +19,5 @@
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd WhatsAppSender
+git clone https://github.com/adityajaiswal25/AutomatedWhatsAppMessage.git
+cd AutomatedWhatsAppMessage
